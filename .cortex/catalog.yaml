@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "edi-gateway"
+  x-cortex-tag: "edi-gateway"
+  x-cortex-description: "EDI 850/855/856/810 transaction processing"
+  x-cortex-owners:
+    - type: group
+      name: "Supplier & Pricing Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001404"
+    apm_name: "Supplier Integration Platform"
+    cost_center: "CC-4420"
